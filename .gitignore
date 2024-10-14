@@ -1,0 +1,6 @@
+__pycache__
+.history
+.pdm-build
+.pdm-python
+.venv
+pdm.lock
