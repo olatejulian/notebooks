@@ -1,0 +1,422 @@
+Number,Pokémon,Type 1,Type 2,Location
+1,Bulbasaur,Grass,Poison,Wild: 114
+2,Ivysaur,Grass,Poison,Evolve Bulbasaur
+3,Venusaur,Grass,Poison,Evolve Ivysaur
+4,Charmander,Fire,,Wild: Jagged Pass
+5,Charmeleon,Fire,,Evolve Charmander
+6,Charizard,Fire,Flying,Evolve Charmeleon
+7,Squirtle,Water,,Surf: Petalburg
+8,Wartortle,Water,,Evolve Squirtle
+9,Blastoise,Water,,Evolve Wartortle
+10,Caterpie,Bug,,"Wild: 103, Petalburg Woods"
+11,Metapod,Bug,,Evolve Caterpie
+12,Butterfree,Bug,Psychic,Wild: 127
+13,Weedle,Bug,Poison,"Wild: 103, Petalburg Woods"
+14,Kakuna,Bug,Poison,Evolve Weedle
+15,Beedrill,Bug,Poison,Wild: 127
+16,Pidgey,Flying,,Wild: 104
+17,Pidgeotto,Flying,,Wild: 128
+18,Pidgeot,Flying,,Wild: 128
+19,Rattata,Normal,,"Wild: Littleroot, 110"
+20,Raticate,Normal,,Evolve Rattata
+21,Spearow,Normal,Flying,"Wild: Littleroot, 103"
+22,Fearow,Normal,Flying,Wild: 127
+23,Ekans,Poison,,"Wild: 110, Pacifidlog"
+24,Arbok,Poison,Dark,Evolve Ekans
+25,Pikachu,Electric,,"Wild: 110, Safari Zone SW, New Mauville"
+26,Raichu,Electric,,Wild: New Mauville
+27,Sandshrew,Ground,,"Wild: 106, 111, 113, Seafloor Cavern, Mirage Tower"
+28,Sandslash,Ground,,Evolve Sandshrew
+29,Nidoran,Poison,,"Wild: 116, Meteor Falls 1F"
+30,Nidorina,Poison,,"Wild: Meteor Falls 1F, Safari Zone SE"
+31,Nidoqueen,Poison,Ground,Wild: Seafloor Cavern
+32,Nidoran,Poison,,"Wild: 116, Meteor Falls 1F"
+33,Nidorino,Poison,,"Wild: Meteor Falls 1F, Safari Zone SE"
+34,Nidoking,Poison,Ground,Wild: Seafloor Cavern
+35,Clefairy,Fairy,,"Wild: 112, 115"
+36,Clefable,Fairy,,Evolve Clefairy
+37,Vulpix,Fire,Fairy,"Wild: Dewford, 106, Mt. Pyre Exterior"
+38,Ninetales,Fire,Fairy,Evolve Vulpix
+39,Jigglypuff,Normal,Fairy,Wild: 112
+40,Wigglytuff,Normal,Fairy,Evolve Jigglypuff
+41,Zubat,Poison,Flying,"Wild: Granite Cave All Floors, Meteor Falls, Shoal Cave Low Tide, Shoal Cave Ice Room, Seafloor Cavern, Cave of Origin"
+42,Golbat,Poison,Flying,"Wild: Meteor Falls, Shoal Cave Ice Room, Seafloor Cavern, Victory Road 1F/B1F/B2F, Cave of Origin, Sky Pillar"
+43,Oddish,Grass,Poison,"Wild: 102, Pacifidlog"
+44,Gloom,Grass,Poison,Wild: 121
+45,Vileplume,Grass,Poison,Wild: 127
+46,Paras,Bug,Grass,"Wild: 113, 115"
+47,Parasect,Bug,Ghost,"Wild: 119, Safari Zone S"
+48,Venonat,Bug,Poison,Wild: 118
+49,Venomoth,Bug,Poison,Wild: 120
+50,Diglett,Ground,,"Wild: Granite Cave 1F, Fiery Path"
+51,Dugtrio,Ground,,Evolve Diglett
+52,Meowth,Normal,,"Wild: 104, Safari Zone S"
+53,Persian,Normal,,Evolve Meowth
+54,Psyduck,Water,,"Wild: 104, 106, 118. Fish: 109 (GR). Surf: Safari Zone NW. Pacifidlog Scuba Safari"
+55,Golduck,Water,,Evolve Psyduck
+56,Mankey,Fighting,,"Wild: Rustboro, Pacifidlog, Jagged Pass"
+57,Primeape,Fighting,,Wild: Safari Zone SE
+58,Annihilape,Fighting,Ghost,Evolve Primeape
+59,Growlithe,Fire,,"Wild: Rustboro, 106, Fiery Path"
+60,Arcanine,Fire,,Evolve Growlithe
+61,Poliwag,Water,,Wild: 104. Pacifidlog Scuba Safari
+62,Poliwhirl,Water,,"Wild: Safari Zone SE, Shoal Cave Low Tide"
+63,Poliwrath,Water,Fighting,Evolve Poliwhirl
+64,Abra,Psychic,,"Wild: 116, Granite Cave 1F"
+65,Kadabra,Psychic,,"Wild: Mt. Pyre Summit, Cave of Origin"
+66,Alakazam,Psychic,,Evolve Kadabra
+67,Machop,Fighting,,"Wild: Dewford, Granite Cave 1F/B1F, Fiery Path, Jagged Pass"
+68,Machoke,Fighting,,Wild: Cave of Origin
+69,Machamp,Fighting,,Evolve Machoke
+70,Bellsprout,Grass,Poison,"Wild: 102, Pacifidlog"
+71,Weepinbell,Grass,Poison,Wild: 121
+72,Victreebel,Grass,Poison,Wild: 127
+73,Tentacool,Water,Poison,"Most Surf Locations, Old Rod fishing, Pacifidlog Scuba Safari"
+74,Tentacruel,Water,Poison,Surf: 131
+75,Geodude,Rock,Ground,"Wild: Granite Cave 1F/B1F, Magma Hideout, Most Rock Smash Rocks"
+76,Graveler,Rock,Ground,"Wild: Safari Zone NE, Victory Road B2F, Magma Hideout"
+77,Golem,Rock,Ground,Evolve Graveler
+78,Ponyta,Fire,,"Wild: 113, 123"
+79,Rapidash,Fire,,Evolve Ponyta
+80,Slowpoke,Water,Psychic,"Pacifidlog Town. Fish: 107 (OR/GR), 109 (GR). Surf: 122, Safari Zone SE, Pacifidlog Scuba Safari"
+81,Slowbro,Water,Psychic,Surf: Safari Zone SE
+82,Magnemite,Electric,Steel,Wild: New Mauville
+83,Magneton,Electric,Steel,Wild: New Mauville
+84,Magnezone,Electric,Steel,Evolve Magneton
+85,Farfetch’d,Fighting,Flying,"Wild: Safari Zone SW, 127"
+86,Doduo,Ground,Flying,"Wild: 117, 118, Safari Zone S"
+87,Dodrio,Ground,Flying,Wild: Safari Zone SE
+88,Seel,Water,,"Fish: 118 (GR). Surf: 122, 125, Pacifidlog Scuba Safari"
+89,Dewgong,Water,Ice,"Surf: 125, Pacifidlog Scuba Safari"
+90,Grimer,Poison,,"Wild: Fiery Path, Seafloor Cavern"
+91,Muk,Poison,,Evolve Grimer
+92,Shellder,Water,,"Wild: 106, Shoal Cave Low Tide. Fish: 114 (GR), 122 (GR/SR). Surf: Fortree, 124, Pacifidlog Scuba Safari"
+93,Cloyster,Water,Ice,Fish: 122 (SR)
+94,Gastly,Ghost,Poison,"Wild: Granite Cave B2F, Mt. Pyre Interior"
+95,Haunter,Ghost,Poison,"Wild: Mt. Pyre Interior, Victory Road B2F"
+96,Gengar,Ghost,Poison,Evolve Haunter
+97,Onix,Rock,Ground,"Wild: Granite Cave Steven’s Room, Safari Zone NE, Seafloor Cavern"
+98,Drowzee,Psychic,,"Wild: Littleroot, Jagged Pass, Safari Zone SW"
+99,Hypno,Psychic,,Wild: Cave of Origin
+100,Krabby,Water,,"Wild: 106. Fish: 104 (OR), 120 (GR/SR). Surf: 106, Pacifidlog Scuba Safari"
+101,Kingler,Water,,Fish: 120 (SR)
+102,Voltorb,Electric,,"Wild: 110, New Mauville"
+103,Electrode,Electric,,Wild: New Mauville
+104,Exeggcute,Grass,Psychic,"Wild: 119, Safari Zone S"
+105,Exeggutor,Grass,Psychic,"Wild: 119, 128"
+106,Cubone,Ground,,"Wild: Granite Cave B2F, Scorched Slab"
+107,Marowak,Ground,,Wild: Scorched Slab
+108,Hitmonlee,Fighting,,Wild: Safari Zone N
+109,Hitmonchan,Fighting,,Wild: Safari Zone N
+110,Lickitung,Normal,,Wild: 115
+111,Lickilicky,Normal,,Evolve Lickitung
+112,Koffing,Poison,,Wild: Fiery Path
+113,Weezing,Poison,,Evolve Koffing
+114,Rhyhorn,Ground,Rock,"Wild: 111, 115, Safari Zone NW"
+115,Rhydon,Ground,Rock,Evolve Rhyhorn
+116,Rhyperior,Ground,Rock,Evolve Rhydon
+117,Happiny,Normal,,Wild: 115
+118,Chansey,Normal,,"Wild: 121, Victory Road 1F"
+119,Tangela,Grass,,"Wild: 117, 120"
+120,Tangrowth,Grass,,Wild: 128
+121,Kangaskhan,Normal,,"Wild: 115, 120"
+122,Horsea,Water,,"Fish: 106 (OR), 115 (GR). Surf: 115, 124, Pacifidlog Scuba Safari"
+123,Seadra,Water,,Surf: 124
+124,Goldeen,Water,,Surf: 102. Fish in Most Ponds (OR/GR). Pacifidlog Scuba Safari
+125,Seaking,Water,,Fish: Safari Zone SW/NW (SR)
+126,Staryu,Water,,"Surf: 107, 108, 109"
+127,Starmie,Water,Psychic,Surf: 109
+128,Mime Jr.,Psychic,Fairy,Wild: Jagged Pass
+129,Mr. Mime,Psychic,Fairy,Wild: Mt. Pyre Summit
+130,Scyther,Bug,Flying,"Wild: 119, Safari Zone NW, Pacifidlog"
+131,Jynx,Ice,Psychic,Wild: 121
+132,Electabuzz,Electric,,Wild: Safari Zone NE
+133,Electivire,Electric,,Evolve Electabuzz
+134,Magmar,Fire,,Wild: Safari Zone NE
+135,Magmortar,Fire,,Evolve Magmar
+136,Pinsir,Bug,,"Wild: 120, Safari Zone NW"
+137,Tauros,Normal,,"Wild: 121, Safari Zone SW"
+138,Magikarp,Water,,Old Rod Fishing
+139,Gyarados,Water,Flying,Surf: 122. Fish: 124 (SR). Pacifidlog Scuba Safari
+140,Lapras,Water,Ice,"Surf: 132, 133, 134, Pacifidlog Scuba Safari"
+141,Ditto,Normal,,"Wild: Mt. Pyre Summit, Desert Underpass"
+142,Eevee,Normal,,"Wild: Littleroot, 115"
+143,Vaporeon,Water,,Evolve Eevee
+144,Jolteon,Electric,,Evolve Eevee
+145,Flareon,Fire,,Evolve Eevee
+146,,,,
+149,Porygon,Normal,,Wild: Mossdeep
+150,Omanyte,Rock,Water,"Wild: Scorched Slab, Fish: Fortree (GR/SR), Pacifidlog Scuba Safari"
+151,Omastar,Rock,Water,Evolve Omanyte
+152,Kabuto,Rock,Water,"Wild: Scorched Slab, Fish: Fortree (GR/SR), Pacifidlog Scuba Safari"
+153,Kabutops,Rock,Water,Evolve Kabuto
+154,Aerodactyl,Rock,Flying,"Wild: Scorched Slab, 128"
+155,Munchlax,Normal,,"Wild: 112, 123"
+156,Snorlax,Normal,,Wild: 123
+157,Articuno,Ice,Flying,"Event, Mt. Pyre Summit"
+158,Zapdos,Electric,Flying,"Event, Mt. Pyre Summit"
+159,Moltres,Fire,Flying,"Event, Mt. Pyre Summit"
+160,Dratini,Dragon,,Fish: Meteor Falls
+161,Dragonair,Dragon,,Evolve Dratini
+162,Dragonite,Dragon,Flying,Evolve Dragonair
+163,Mewtwo,Psychic,,"Event, Granite Cave Steven’s Room"
+164,Mew,Psychic,,"Event, Faraway Island"
+165,Chikorita,Grass,,Wild: 110
+166,Bayleef,Grass,,Evolve Chikorita
+167,Meganium,Grass,,Evolve Bayleef
+168,Cyndaquil,Fire,,Wild: Fiery Path
+169,Quilava,Fire,,Evolve Cyndaquil
+170,Typhlosion,Fire,,Evolve Quilava
+171,Totodile,Water,,"Fish: Slateport (GR/SR), Surf: Slateport"
+172,Croconaw,Water,,Fish: Slateport (SR)
+173,Feraligatr,Water,,Evolve Croconaw
+174,Sentret,Normal,,"Wild: 101, 106"
+175,Furret,Normal,,Wild: 118
+176,Hoothoot,Normal,Flying,"Wild: 101, 114"
+177,Noctowl,Ghost,Flying,"Wild: 121, 128"
+178,Ledyba,Bug,Flying,Wild: Petalburg Woods
+179,Ledian,Bug,Flying,Wild: 127
+180,Spinarak,Bug,Poison,Wild: Petalburg Woods
+181,Ariados,Bug,Poison,"Wild: Safari Zone S, 128"
+182,Crobat,Poison,Flying,Evolve Golbat
+183,Chinchou,Water,Electric,"Fish: 115 (GR/SR), Surf: Fortree, Mossdeep, Wild: Underwater, Pacifidlog Scuba Safari"
+184,Lanturn,Water,Electric,Evolve Chinchou
+185,Pichu,Electric,,"Wild: Petalburg Woods, 116, New Mauville"
+186,Cleffa,Fairy,,Wild: Rustboro
+187,Igglybuff,Normal,Fairy,Wild: Rustboro
+188,Togepi,Fairy,,Wild: 117
+189,Togetic,Fairy,Flying,Evolve Togepi
+190,Togekiss,Fairy,Flying,Evolve Togetic
+191,Natu,Psychic,Flying,"Wild: Littleroot, Pacifidlog, Safari Zone N"
+192,Xatu,Psychic,Flying,"Wild: 120, Safari Zone N"
+193,Mareep,Electric,,"Wild: Littleroot, 110"
+194,Flaaffy,Electric,,Wild: Mossdeep
+195,Ampharos,Electric,,Evolve Flaaffy
+196,Bellossom,Grass,Fairy,Wild: 128
+197,Marill,Water,Fairy,"Wild: 104, Most Pond Surf Locations, Pacifidlog Scuba Safari"
+198,Azumarill,Water,Fairy,Surf: 120
+199,Bonsly,Rock,,Wild: 112
+200,Sudowoodo,Rock,,Wild: 128
+201,Politoed,Water,Normal,Evolve Poliwhirl
+202,Hoppip,Grass,Flying,Wild: 103
+203,Skiploom,Grass,Flying,Wild: 121
+204,Jumpluff,Grass,Flying,Wild: 127
+205,Aipom,Normal,,"Wild: 116, 119, Safari Zone S"
+206,Ambipom,Normal,,Wild: Safari Zone S
+207,Sunkern,Grass,,"Wild: 102, Safari Zone SE, 128"
+208,Sunflora,Grass,Fire,"Wild: 121, Safari Zone NE"
+209,Yanma,Bug,Flying,"Wild: Littleroot, 104, Dewford, 118"
+210,Yanmega,Bug,Dragon,Evolve Yanma
+211,Wooper,Water,Ground,"Fish: Dewford (OR), 117 (GR). Surf: Safari Zone SE, Pacifidlog Scuba Safari"
+212,Quagsire,Water,Ground,"Fish: 123 (GR/SR). Surf: Safari Zone SW, Pacifidlog Scuba Safari"
+213,Espeon,Psychic,,Evolve Eevee
+214,Umbreon,Dark,,Evolve Eevee
+215,Murkrow,Dark,Flying,"Wild: 112, Jagged Pass, Mt. Pyre Summit"
+216,Honchkrow,Dark,Flying,Wild: Mt. Pyre Summit
+217,Slowking,Water,Psychic,Surf: Safari Zone SE
+218,Misdreavus,Ghost,,"Wild: Granite Cave B2F, Mt. Pyre Interior, Victory Road B2F"
+219,Mismagius,Ghost,Fairy,Wild: Victory Road B2F
+220,Unown,Psychic,,Wild: Mt. Pyre Exterior
+221,Wobbuffet,Psychic,,Wild: Safari Zone SW
+222,Girafarig,Normal,Psychic,"Wild: 119, Safari Zone SW/S"
+223,Farigiraf,Normal,Psychic,Evolve Girafarig
+224,Pineco,Bug,,"Wild: 112, Safari Zone NW"
+225,Forretress,Bug,Steel,Evolve Pineco
+226,Dunsparce,Normal,,"Wild: Safari Zone N/NE, Seafloor Cavern, Cave of Origin"
+227,Dundunsparce,Normal,,"Wild: Safari Zone NE, Cave of Origin"
+228,Gligar,Ground,Flying,"Wild: 111, Fiery Path"
+229,Gliscor,Ground,Flying,Evolve Gligar
+230,Steelix,Steel,Ground,Evolve Onix
+231,Snubbull,Fairy,,"Wild: Rustboro Tunnel, Safari Zone NW"
+232,Granbull,Fairy,Fighting,Wild: Safari Zone NW
+233,Qwilfish,Water,Poison,"Fish: 119 (SR). Surf: 132, 133, 134, Pacifidlog Scuba Safari"
+234,Scizor,Bug,Steel,Evolve Scyther
+235,Kleavor,Bug,Rock,Evolve Scyther
+236,Shuckle,Bug,Rock,Wild: Dewford. Surf: 123. Rock Smash: Safari Zone NE
+237,Heracross,Bug,Fighting,"Wild: Pacifidlog, 120, Safari Zone N"
+238,Sneasel,Dark,Ice,"Wild: Mt. Pyre Summit, Mossdeep"
+239,Weavile,Dark,Ice,Evolve Sneasel
+240,Teddiursa,Normal,,"Wild: Rustboro, 113"
+241,Ursaring,Normal,,Wild: Safari Zone NE
+242,Ursaluna,Ground,Normal,Evolve Ursaring
+243,Slugma,Fire,,"Wild: Fiery Path, 113"
+244,Magcargo,Fire,Rock,Evolve Slugma
+245,Swinub,Ice,Ground,"Wild: Rusturf Tunnel, Mossdeep"
+246,Piloswine,Ice,Ground,"Wild: Mossdeep, Shoal Cave Ice Room"
+247,Mamoswine,Ice,Ground,Evolve Piloswine
+248,Corsola,Water,Rock,"Wild: Dewford. Fish: Ever Grande (SR), Pacifidlog (SR). Surf: Pacifidlog, Pacifidlog Scuba Safari"
+249,Remoraid,Water,,"Fish: 103 (OR), 111 (GR), Safari Zone SE(GR/SR). Surf: Fortree, Pacifidlog Scuba Safari"
+250,Octillery,Water,Fire,Fish: Safari Zone SE (SR). Surf: Safari Zone NW
+251,Delibird,Ice,Flying,Wild: Shoal Cave Low Tide
+252,Mantyke,Water,Flying,"Surf: 105, 106, Pacifidlog Scuba Safari"
+253,Mantine,Water,Flying,"Surf: 126, 127, 128"
+254,Skarmory,Steel,Flying,"Wild: 113, Safari Zone N"
+255,Houndour,Dark,Fire,"Wild: 112, Mt. Pyre Exterior"
+256,Houndoom,Dark,Fire,Wild: Magma Hideout
+257,Kingdra,Water,Dragon,"Fish: 132, 133, 134 (SR)"
+258,Phanpy,Ground,,"Wild: Littleroot, 111, Jagged Pass, Safari Zone N"
+259,Donphan,Ground,,Evolve Phanpy
+260,Porygon2,Normal,,Evolve Porygon
+261,PorygonZ,Normal,Electric,Evolve Porygon2
+261,Stantler,Normal,,"Wild: 114, Safari Zone NE"
+262,Wyrdeer,Normal,Psychic,Wild: Safari Zone NE
+263,Smeargle,Normal,,"Wild: 123, Artisan Cave"
+264,Tyrogue,Fighting,,Wild: 117
+265,Hitmontop,Fighting,,Evolve Tyrogue
+266,Smoochum,Ice,Psychic,Wild: 117
+267,Elekid,Electric,,Wild: 117
+268,Magby,Fire,,Wild: 117
+269,Miltank,Normal,,"Wild: 114, 121"
+270,Blissey,Normal,,Wild: Victory Road 1F
+271,Raikou,Electric,,Event: Shoal Cave Ice Room
+272,Entei,Fire,,Event: Shoal Cave Ice Room
+273,Suicune,Water,,Event: Shoal Cave Ice Room
+274,Larvitar,Rock,Ground,"Wild: Safari Zone NW, Seafloor Cavern"
+275,Pupitar,Rock,Ground,Wild: Seafloor Cavern
+276,Tyranitar,Rock,Dark,Evolve Pupitar
+277,Lugia,Psychic,Flying,Event: Navel Rock
+278,Ho-oh,Fire,Flying,Event: Navel Rock
+279,Celebi,Psychic,Grass,Event: Route 119
+280,Treecko,Grass,,Wild: Safari Zone SE
+281,Grovyle,Grass,Dragon,Evolve Treecko
+282,Sceptile,Grass,Dragon,Evolve Grovyle
+283,Torchic,Fire,,Wild: Safari Zone NW
+284,Combusken,Fire,Fighting,Evolve Torchic
+285,Blaziken,Fire,Fighting,Evolve Combusken
+286,Mudkip,Water,,Wild: Safari Zone SW
+287,Marshtomp,Water,Ground,Evolve Mudkip
+288,Swampert,Water,Ground,Evolve Marshtomp
+289,Poochyena,Dark,,"Wild: 101, 102"
+290,Mightyena,Dark,,"Wild: 120, Victory Road 1F"
+291,Zigzagoon,Normal,,"Wild: 101, 103, 118"
+292,Linoone,Normal,,"Wild: 118, 119"
+293,Wurmple,Bug,,"Wild: 101, 102, Petalburg Woods"
+294,Silcoon,Bug,,Wild: Petalburg Woods
+295,Beautifly,Bug,Flying,Wild: 123
+296,Cascoon,Bug,,Wild: Petalburg Woods
+297,Dustox,Bug,Poison,Wild: 123
+298,Lotad,Water,Grass,"Wild: 102, 114, Surf 127. Pacifidlog Scuba Safari"
+299,Lombre,Water,Grass,Wild: 114
+300,Ludicolo,Water,Grass,Evolve Lombre
+301,Seedot,Grass,,"Wild: 102, 106"
+302,Nuzleaf,Grass,Dark,"Wild: 113, Mossdeep"
+303,Shiftry,Grass,Dark,Evolve Nuzleaf
+304,Taillow,Normal,Flying,"Wild: 104, Rustboro, 116, Dewford"
+305,Swellow,Normal,Flying,"Wild: 115, 127"
+306,Wingull,Water,Flying,"Wild: 103, Dewford. Most Surf Locations"
+307,Pelipper,Water,Flying,Most Surf Locations
+308,Ralts,Psychic,Fairy,Wild: 102
+309,Kirlia,Psychic,Fairy,Wild: Victory Road 1F
+310,Gardevoir,Psychic,Fairy,Evolve Kirlia
+311,Gallade,Psychic,Fighting,Evolve Kirlia
+312,Surskit,Bug,Water,"Wild: 102, Pacifidlog. Surf: 119"
+313,Masquerain,Bug,Water,Wild: 119
+314,Shroomish,Grass,,Wild: Petalburg Woods
+315,Breloom,Grass,Fighting,Evolve Shroomish
+316,Slakoth,Normal,,"Wild: Petalburg Woods, Safari Zone SE"
+317,Vigoroth,Normal,,Wild: Safari Zone SE
+318,Slaking,Normal,,Evolve Vigoroth
+319,Nincada,Bug,Ground,"Wild: Dewford, 116"
+320,Ninjask,Bug,Flying,Wild: Mt. Pyre Exterior
+321,Shedinja,Bug,Ghost,Wild: Mt. Pyre Interior
+322,Whismur,Normal,,"Wild: Rusturf Tunnel, Desert Underpass"
+323,Loudred,Normal,,"Wild: Victory Road 1F, Desert Underpass"
+324,Exploud,Normal,,Evolve Loudred
+325,Makuhita,Fighting,,Wild: Granite Cave 1F/B1F
+326,Hariyama,Fighting,,Wild: Victory Road 1F/B1F
+327,Azurill,Normal,Fairy,Wild: 102
+328,Nosepass,Rock,,Rock Smash: Granite Cave. Wild: Victory Road B1F. Pacifidlog Scuba Safari
+329,Probopass,Rock,Steel,Wild: Victory Road B1F
+330,Skitty,Normal,,Wild: 116
+331,Delcatty,Normal,,Evolve Skitty
+332,Sableye,Dark,Ghost,"Wild: Granite Cave B1F/B2F, Victory Road B2F, Sky Pillar"
+333,Mawile,Steel,Fairy,"Wild: Granite Cave B2F, Victory Road B1F"
+334,Aron,Steel,Rock,"Wild: Granite Cave All Floors, Safari Zone N"
+335,Lairon,Steel,Rock,"Wild: Safari Zone N, Victory Road 1F"
+336,Aggron,Steel,Rock,Evolve Lairon
+337,Meditite,Fighting,Psychic,"Wild: Rusturf Tunnel, 120"
+338,Medicham,Fighting,Psychic,Evolve Meditite
+339,Electrike,Electric,,"Wild: 110, 118"
+340,Manectric,Electric,,Wild: 118
+341,Plusle,Electric,,Wild: 110
+342,Minun,Electric,,Wild: 110
+343,Volbeat,Bug,Electric,"Wild: 117, 123"
+344,Illumise,Bug,Fairy,"Wild: 117, 123"
+345,Budew,Grass,Poison,Wild: 117
+346,Roselia,Grass,Poison,"Wild: 123, Mossdeep"
+347,Roserade,Grass,Poison,Evolve Roselia
+348,Gulpin,Poison,,"Wild: 110, Victory Road B1F"
+349,Swalot,Poison,,Wild: Victory Road B1F
+350,Carvanha,Water,Dark,"Fish: 118, Fortree (GR/SR). Surf: 119"
+351,Sharpedo,Water,Dark,"Fish: 118, 122, 124, and many other Ocean Locations (SR)"
+352,Wailmer,Water,,"Most Ocean Fishing Locations. Surf: Lilycove, 129. Pacifidlog Scuba Safari"
+353,Wailord,Water,,"Surf: Lilycove, 129"
+354,Numel,Fire,Ground,"Wild: Granite Cave Steven’s Room, 112, Jagged Pass"
+355,Camerupt,Fire,Ground,Wild: Magma Hideout
+356,Torkoal,Fire,,"Wild: Fiery Path, Magma Hideout"
+357,Spoink,Psychic,,Wild: Jagged Pass
+358,Grumpig,Psychic,,Wild: Victory Road B1F
+359,Spinda,Normal,,Wild: 113
+360,Trapinch,Ground,,"Wild: Dewford, 111, Mirage Tower"
+361,Vibrava,Ground,Dragon,"Wild: Mossdeep, Victory Road B1F"
+362,Flygon,Ground,Dragon,Wild: Victory Road B1F
+363,Cacnea,Grass,,Wild: 111
+364,Cacturne,Grass,Dark,Evolve Cacnea
+365,Swablu,Fairy,Flying,"Wild: 114, 115, Surf 130, 131"
+366,Altaria,Dragon,Fairy,"Surf: 130, 131. Wild: Sky Pillar 5F"
+367,Zangoose,Normal,,Wild: 114
+368,Seviper,Poison,,Wild: 114
+369,Lunatone,Rock,Psychic,"Wild: Meteor Falls All Floors, Mossdeep"
+370,Solrock,Rock,Psychic,"Wild: Meteor Falls All Floors, Mossdeep"
+371,Barboach,Water,Ground,"Fish: 111 (GR/SR), 114 (OR/GR/SR). Surf: 114. Pacifidlog Scuba Safari"
+372,Whiscash,Water,Ground,Surf: 114. Pacifidlog Scuba Safari
+373,Corphish,Water,,"Fish: 102, Petalburg (GR/SR), Mossdeep (GR). Pacifidlog Scuba Safari"
+374,Crawdaunt,Water,Dark,Fish: Mossdeep (SR)
+375,Baltoy,Ground,Psychic,"Wild: 111, Scorched Slab"
+,,,,
+376,Claydol,Ground,Psychic,Wild: Sky Pillar
+377,Lileep,Rock,Grass,Wild: Cave of Origin. Restore Fossil. Pacifidlog Scuba Safari
+378,Cradily,Rock,Grass,Evolve Lileep
+379,Anorith,Rock,Bug,Wild: Cave of Origin. Restore Fossil. Pacifidlog Scuba Safari
+380,Armaldo,Rock,Bug,Evolve Anorith
+381,Feebas,Water,,Fish: 119 (GR)
+382,Milotic,Water,Fairy,Evolve Feebas
+383,Castform,Normal,,Weather Institute Event
+384,Kecleon,Normal,,"Wild: 118, 119, 120"
+385,Shuppet,Ghost,Normal,"Wild: Granite Cave B2F, 121, Mt. Pyre Interior, Mt. Pyre Exterior"
+386,Banette,Ghost,Normal,"Wild: Victory Road B2F, Sky Pillar"
+387,Duskull,Ghost,,"Wild: 113, Mt. Pyre Interior"
+388,Dusclops,Ghost,,Wild: Victory Road B2F
+389,Dusknoir,Ghost,,Evolve Dusclops
+390,Tropius,Grass,Flying,Wild: 119
+391,Chingling,Psychic,Steel,Wild: Rustboro
+392,Chimecho,Psychic,Steel,"Wild: Mt. Pyre Exterior, Mt. Pyre Summit"
+393,Absol,Dark,,"Wild: 120, Mt. Pyre Summit"
+394,Wynaut,Psychic,,Wild: Rustboro
+395,Snorunt,Ice,,"Wild: Rusturf Tunnel, Shoal Cave Ice Room"
+396,Glalie,Ice,,"Wild: Shoal Cave Ice Room, Victory Road B2F"
+397,Froslass,Ice,Ghost,"Wild: Shoal Cave Ice Room, Victory Road B2F"
+398,Spheal,Ice,Water,"Wild: Safari Zone SE, Shoal Cave Low Tide, Shoal Cave Ice Room. Pacifidlog Scuba Safari"
+399,Sealeo,Ice,Water,Wild: Safari Zone SE
+400,Walrein,Ice,Water,Evolve Sealeo
+401,Clamperl,Water,,Wild: Underwater. Pacifidlog Scuba Safari
+402,Huntail,Water,,Fish: 128 (SR). Pacifidlog Scuba Safari
+403,Gorebyss,Water,,Fish: 128 (SR). Pacifidlog Scuba Safari
+404,Relicanth,Water,Rock,Wild: Underwater. Pacifidlog Scuba Safari
+405,Luvdisc,Water,,"Surf: 128, 130, 131. Fish: 128 (GR), Ever Grande City (GR/SR). Pacifidlog Scuba Safari"
+406,Bagon,Dragon,,Wild: Meteor Falls All Floors
+407,Shelgon,Dragon,,Evolve Bagon
+408,Salamence,Dragon,Flying,Evolve Bagon
+409,Beldum,Steel,Psychic,Wild: New Mauville. Event from Steven
+410,Metang,Steel,Psychic,Evolve Beldum
+411,Metagross,Steel,Psychic,Evolve Metang
+412,Regirock,Rock,,Event: Desert Ruins
+413,Regice,Ice,,Event: Island Cave
+414,Registeel,Steel,,Event: Ancient Tomb
+415,Latias,Dragon,Psychic,Roaming after Elite Four
+416,Latios,Dragon,Psychic,Roaming after Elite Four
+417,Kyogre,Water,,Story Event
+418,Groudon,Ground,,Story Event
+419,Rayquaza,Dragon,Flying,Story Event
+420,Jirachi,Steel,Psychic,"Event, Mossdeep City"
+421,Deoxys,Psychic,,"Event, Birth Island"
